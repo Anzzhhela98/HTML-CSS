@@ -8,12 +8,12 @@ The aim of the course "HTML & CSS" is to provide basic knowledge of web technolo
 
 **Acquired Skills** :
 
--Learning the basics of typography
--Styling websites with CSS
--Basic knowledge in building web pages
--Creating responsive web design
--Creating modern websites
--Ability to create static web pages
+- Learning the basics of typography
+- Styling websites with CSS
+- Basic knowledge in building web pages
+- Creating responsive web design
+- Creating modern websites
+- Ability to create static web pages
 
 ---
 
