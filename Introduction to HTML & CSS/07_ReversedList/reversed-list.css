@@ -1,0 +1,9 @@
+#wrapper{
+	background: #dddddd;
+	width: 300px;
+}
+
+#wrapper > ol{
+	color: #95191a;
+	border: 1px solid #000000;
+}
